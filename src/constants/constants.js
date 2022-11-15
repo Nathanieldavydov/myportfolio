@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Mousiki',
     description: "Using HTML, CSS, and Javascript, I have created a simple music player that allows the user play, pause and skip through the music chosen by the developers.",
-      image: '../images/mousiki.png',
+      image: '/images/mousiki.png',
       tags: ['HTML', 'CSS', 'Javascript'],
     source: 'https://google.com',
     visit: 'https://google.com',
@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'Gethub',
     description:"A clone of Github with a new more refined and mopdern look which includes integrated password authentication and login/signup using React, Ruby on Rails and Active Storage.",
-    image: '../images/gethub.png',
+    image: '/images/gethub.png',
     tags: ['React', 'Ruby on Rails'],
     source: 'https://google.com',
     visit: 'https://google.com',
@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'NFT App',
     description: "With the hype around Web3, I have created an modern blockchain application that allows the user to buy certain coins and stored in the blockchain.",
-      image: '../images/nft.png',
+      image: '/images/nft.png',
       tags: ['React', 'Solidity', 'Smart Contracts'],
     source: 'https://google.com',
     visit: 'https://google.com',
@@ -29,7 +29,7 @@ export const projects = [
   {
     title: 'Nati',
     description: "A Restaurant App using React and  CSS, a personal project as I wanted to expand my knowledge on CSS and Figma",
-    image: '../images/NATI-Restaurant-01.jpg',
+    image: '/images/nati.jpg',
     tags: ['React', 'CSS', 'Figma'],
     source: 'https://google.com',
     visit: 'https://google.com',
